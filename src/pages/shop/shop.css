@@ -35,7 +35,7 @@
   .shopTitle {
     margin-top: 30px;
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
   }
 }
 
@@ -49,12 +49,6 @@
 @media screen and (max-width: 400px) {
   .products {
     grid-template-columns: 1fr;
-  }
-
-  .shopTitle {
-    margin-top: 10px;
-    text-align: center;
-    font-size: 10px;
   }
 
 }
